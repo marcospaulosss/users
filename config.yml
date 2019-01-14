@@ -1,0 +1,6 @@
+database:
+  host: "blackbox-db-dev.cf2yrg99uyn9.us-east-1.rds.amazonaws.com"
+  name: "strategia"
+  user: "root"
+  pass: "Strategy1984"
+
